@@ -78,7 +78,3 @@ Cricbuzz REST API → Python (Requests, JSON) → SQL Database → SQL Analytics
 - Full CRUD implementation with database connectivity  
 - End-to-end cricket analytics application development  
 
-
-
-
-## 🏗️ System Architecture
